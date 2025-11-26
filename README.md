@@ -35,3 +35,23 @@ From a cognitive psychology perspective, humans love patterns.
 When a pattern breaks—like sloths having 6 or 9 neck bones—it catches our attention and deepens learning.
 
 This project uses data to challenge assumptions and strengthen scientific thinking—skills essential in research, engineering, and decision-making.
+# 🧬 Features
+
+✔ Load and explore real anatomical datasets
+✔ Analyze the distribution of bones across the human body
+✔ Compare neck structures across mammals and birds
+✔ Visualize bird neck bone diversity with bar charts
+✔ Discover evolutionary exceptions
+✔ Gain insights into structural biology using data science
+
+# 📊 Technologies Used
+
+-Python
+
+-Pandas
+
+-Matplotlib
+
+Google Colab Notebook
+
+CSV datasets
